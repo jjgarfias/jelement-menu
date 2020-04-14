@@ -18,9 +18,9 @@ import 'jelement-menu/src/jelement-menu.js';
 # Use
 Use the component in HTML
 ```html
-    <nav-bar 
+    <jelement-menu 
     options="Home,Blog,About,Contact" 
     optionsHREF="#home,#blog,#about,#contact" 
     background="#0779e4"
-    ></nav-bar>
+    ></jelement-menu>
 ```
