@@ -24,3 +24,6 @@ Use the component in HTML
     background="#0779e4"
     ></jelement-menu>
 ```
+```html
+    <script src="./dist/bundle.js">
+```
