@@ -25,5 +25,5 @@ Use the component in HTML
     ></jelement-menu>
 ```
 ```html
-    <script src="./dist/bundle.js">
+<script src="./dist/bundle.js"></script>
 ```
