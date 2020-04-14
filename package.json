@@ -1,0 +1,35 @@
+{
+  "name": "jelement-menu",
+  "version": "1.0.0",
+  "description": "Responsive menu whit LitElement",
+  "main": "jelement-menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjgarfias/jelement-menu.git"
+  },
+  "keywords": [
+    "menu",
+    "responsive",
+    "litelement",
+    "webcomponent"
+  ],
+  "author": "Jaime Garfias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjgarfias/jelement-menu/issues"
+  },
+  "homepage": "https://github.com/jjgarfias/jelement-menu#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "lit-element": "^2.3.1"
+  }
+}
